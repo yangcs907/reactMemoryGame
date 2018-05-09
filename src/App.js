@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import ImageCard from "./components/ImageCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import scoreBar from "./components/scoreBar";
 import images from "./images.json";
 import "./App.css";

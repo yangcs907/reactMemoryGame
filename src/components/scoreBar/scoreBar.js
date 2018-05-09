@@ -6,7 +6,6 @@ const scoreBar = props => (
         <ul className="nav nav-pills nav-justified">
             <li><a href="/">Memory Game!</a></li>
                 {props.message}
-            </li>
             <li>Score: <span style={{color: "red"}}>{props.currentScore}</span>
           </li>
         </ul>
